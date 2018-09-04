@@ -1,1 +1,3 @@
-console.log("SPIERDOLONE GARMORY");
+function funkcja(a, b) {
+    console.log(a + b);
+}
